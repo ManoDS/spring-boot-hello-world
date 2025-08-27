@@ -8,9 +8,7 @@
 
 > **Note:** First two commands need to run inside the root folder of this project i.e inside the **spring-boot-hello-world** folder
 
-
 - **Using maven** <br/>``` mvn spring-boot:run```
-
 
 - **From jar file**
   Create a jar file using '**mvn clean install**' command and then execute
