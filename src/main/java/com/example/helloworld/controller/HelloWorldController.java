@@ -12,5 +12,5 @@ public class HelloWorldController {
     }
 
     @GetMapping("/meeting")
-    public String sendMeetings() { return "Hello, I am inside a meeting!"; }
+    public String sendMeetings() { return "Hello, I am in a meeting!"; }
 }
