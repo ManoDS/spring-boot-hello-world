@@ -1,4 +1,4 @@
-# name: CI - Main Branch Build
+ name: CI - Main Branch Build
 
 # on:
 #   push:
